@@ -11,8 +11,19 @@ package appointmentService;
 
 public class appointment{
 	
+	private String aptID;
+	private String aptDate;
+	private String aptDescr;
+	
 	//Default Constructor. 
 	public appointment() {
 		
 	}
+	
+	//FIXME: add appointment ID verifications.
+	//FIXME: add appointment date and its verifications. 
+	//FIXME: add appointment descriptions. 
+
+	//FIXME: add setters and getters.
+	//FIXME: add validations methods.
 }
