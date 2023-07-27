@@ -7,7 +7,9 @@
  * Date: 2023-27-7 5:54 AM EST
  * 5-1 Milestone: Appointment Service
  * */
-package appointmentService;
+//package appointmentService;
+import java.util.*;
+import java.Date;
 
 public class appointment{
 	
@@ -20,7 +22,22 @@ public class appointment{
 		
 	}
 	
-	//FIXME: add appointment ID verifications.
+	public String verAptID(String idInput) {
+		if (idInput < 10 || idInput == null) {
+			throw new IllegalArgumentException();
+		} else {
+			return idInput;
+		}
+	}
+
+	public String veraptDate(){
+
+	}
+
+
+	
+
+	//Completed: add appointment ID verifications. ??
 	//FIXME: add appointment date and its verifications. 
 	//FIXME: add appointment descriptions. 
 
