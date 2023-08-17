@@ -21,7 +21,7 @@ Some Skills Include.
 * I can make sure that the code or program is both functional and secure by using unit tests. This involves creating tests that follow the specified requirements to ensure accurate functionality. With unit tests, I can verify that the functions created produce the expected outcomes that match the requirements. This process helps me guarantee that my code works correctly and is safe to use.
 <p>
 
-<h5> How do i interpret user needs and incorporate them into a program.</h5>
+<h5> How do I interpret user needs and incorporate them into a program?</h5>
 
 * To understand the user's needs, I begin by analyzing their requests and identifying the desired output and outcomes. Once I have a clear picture of what's expected, I start incorporating tests into the program. These tests help me ensure that the user's requirements are met by verifying the accuracy of the desired outcomes. This approach helps me align the program with the user's needs effectively.
 <p>
